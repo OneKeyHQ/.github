@@ -7,21 +7,21 @@
 ![make something people want](https://github.com/rayston92/graph_bed/blob/edc43bc1cd6ce6a19f3b6c30624a4b58f6870d1f/img/github_home_bg.png?raw=true)
 
 
-#### 🗳️ Your cryptos, only in your hands
+#### 🗳️ Your crypto, in your hands
 
-OneKey will not store your private key or recovery seed, and all the hardware and software we made are open source.
+OneKey will not store your private keys or recovery seed, all our hardware and software are open source.
 
-#### 👶 Safety does not mean trouble
+#### 👶 Simple yet secure
 
-Use OneKey App alone or with hardware, keeping cryptos made so easy for beginners.
+Use the OneKey App by itself or with the hardware, keeping it simple for beginners without compromising on security.
 
-#### 👁️ Open source, really
+#### 👁️ Truly open source
 
 Open source means that we don't hide any code and are open to inspection by everyone, which takes courage and commitment.
 
 #### 🔐 End-to-end encryption
 
-OneKey uses industry-leading encryption technology to store your information locally. Only you can decrypt the information.
+OneKey uses industry-leading encryption technology to store your information locally. Only you can decrypt that information. 
 
 ---
 
