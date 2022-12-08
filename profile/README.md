@@ -38,7 +38,7 @@ OneKey uses industry-leading encryption technology to store your information loc
 * Discord: https://discord.gg/onekey
 * Weibo: https://weibo.com/yourKeysyourBitcoin
 * Support: https://help.onekey.so/
-* Developer Docs: https://docs.onekey.so/
+* Developer Docs: https://developer.onekey.so/
 * Open positions: https://onekeyhq.atlassian.net/wiki/spaces/OC/overview
 
 ## 🙋‍♂️ We're Hiring!
