@@ -24,9 +24,6 @@ OneKey uses industry-leading encryption technology to store your information loc
 
 * [app](https://github.com/OneKeyHQ/app-monorepo) - Cross-platform application
 * [firmware](https://github.com/OneKeyHQ/firmware) - Code runs in your device
-* [portal](https://github.com/OneKeyHQ/portal) - Our website
-* [blockchain-libs](https://github.com/OneKeyHQ/blockchain-libs) - The chain thing
-* [safe-pass](https://github.com/OneKeyHQ/safe-pass) -  DeFi white-list and black-list
 
 
 
@@ -39,7 +36,7 @@ OneKey uses industry-leading encryption technology to store your information loc
 * Weibo: https://weibo.com/yourKeysyourBitcoin
 * Support: https://help.onekey.so/
 * Developer Docs: https://developer.onekey.so/
-* Open positions: https://onekeyhq.atlassian.net/wiki/spaces/OC/overview
+* Open Positions: https://onekeyhq.atlassian.net/wiki/spaces/OC/overview
 
 ## 🙋‍♂️ We're Hiring!
 
