@@ -32,7 +32,6 @@ OneKey uses industry-leading encryption technology to store your information loc
 * Website: https://www.onekey.so/
 * Shop(Global): https://shop.onekey.so/
 * Twitter: https://twitter.com/OneKeyHQ
-* Discord: https://discord.gg/onekey
 * Weibo: https://weibo.com/yourKeysyourBitcoin
 * Support: https://help.onekey.so/
 * Developer Docs: https://developer.onekey.so/
