@@ -29,12 +29,11 @@ OneKey uses industry-leading encryption technology to store your information loc
 
 ## 🦦 Find Us
 
-* Website: https://www.onekey.so/
-* Shop(Global): https://shop.onekey.so/
-* Twitter: https://twitter.com/OneKeyHQ
-* Weibo: https://weibo.com/yourKeysyourBitcoin
-* Support: https://help.onekey.so/
-* Developer Docs: https://developer.onekey.so/
+* Website: https://www.onekey.so
+* Shop(Global): https://onekey.so/shop
+* X: https://x.com/OneKeyHQ
+* Support: https://help.onekey.so
+* Developer Docs: https://developer.onekey.so
 * Open Positions: https://onekeyhq.atlassian.net/wiki/spaces/OC/overview
 
 ## 🙋‍♂️ We're Hiring!
