@@ -23,7 +23,7 @@ OneKey uses industry-leading encryption technology to store your information loc
 ## 🛖 Repos
 
 * [app](https://github.com/OneKeyHQ/app-monorepo) - Cross-platform application
-* [firmware](https://github.com/OneKeyHQ/firmware) - Code runs in your device
+* [firmware](https://github.com/OneKeyHQ/firmware-pro) - Code runs in your device
 
 
 
